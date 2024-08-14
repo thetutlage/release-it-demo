@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Tests over\"",
-    "build": "echo \"Build finish\""
+    "build": "echo \"Build finish\"",
+    "release": "release-it"
   },
   "keywords": [],
   "author": "",
