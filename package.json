@@ -9,8 +9,7 @@
   },
   "keywords": [],
   "author": "virk",
-  "license": "ISC",
-  "description": "",
+  "license": "MIT",
   "devDependencies": {
     "release-it": "^17.6.0"
   },
@@ -33,5 +32,14 @@
       "publish": true,
       "skipChecks": true
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetutlage/release-it-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thetutlage/release-it-demo/issues"
+  },
+  "homepage": "https://github.com/thetutlage/release-it-demo#readme",
+  "description": ""
 }
