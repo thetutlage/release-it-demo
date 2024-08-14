@@ -8,7 +8,7 @@
     "release": "release-it"
   },
   "keywords": [],
-  "author": "",
+  "author": "virk",
   "license": "ISC",
   "description": "",
   "devDependencies": {
