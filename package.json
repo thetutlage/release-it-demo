@@ -20,7 +20,7 @@
       "requireUpstream": true,
       "commitMessage": "chore(release): ${version}",
       "tagAnnotation": "v${version}",
-      "push": false,
+      "push": true,
       "tagName": "v${version}"
     },
     "github": {
