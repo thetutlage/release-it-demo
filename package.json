@@ -15,7 +15,6 @@
     "release-it": "^17.6.0"
   },
   "release-it": {
-    "increment": false,
     "git": {
       "requireCleanWorkingDir": true,
       "requireUpstream": true,
