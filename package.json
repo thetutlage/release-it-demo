@@ -1,6 +1,6 @@
 {
   "name": "release-it-demo",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Tests over\"",
@@ -15,12 +15,13 @@
     "release-it": "^17.6.0"
   },
   "release-it": {
+    "increment": false,
     "git": {
       "requireCleanWorkingDir": true,
       "requireUpstream": true,
       "commitMessage": "chore(release): ${version}",
       "tagAnnotation": "v${version}",
-      "push": true,
+      "push": false,
       "tagName": "v${version}"
     },
     "github": {
