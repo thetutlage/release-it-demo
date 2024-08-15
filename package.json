@@ -15,7 +15,8 @@
     "release-it": "^17.6.0"
   },
   "publishConfig": {
-    "provenance": true
+    "provenance": true,
+    "tag": "1.x"
   },
   "release-it": {
     "git": {
