@@ -15,8 +15,7 @@
     "release-it": "^17.6.0"
   },
   "publishConfig": {
-    "provenance": true,
-    "tag": "1.x"
+    "provenance": true
   },
   "release-it": {
     "git": {
@@ -32,7 +31,8 @@
     },
     "npm": {
       "publish": true,
-      "skipChecks": true
+      "skipChecks": true,
+      "tag": "1.x"
     },
     "plugins": {
       "@release-it/conventional-changelog": {
