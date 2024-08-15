@@ -18,7 +18,6 @@
     "provenance": true
   },
   "release-it": {
-    "preRelease": "beta",
     "git": {
       "requireCleanWorkingDir": true,
       "requireUpstream": true,
